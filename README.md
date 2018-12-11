@@ -24,3 +24,9 @@ Polarity score
 Variance from mean 
 Sort based on decending order of variance. 
 
+Execution: 
+Please refer to the requirements.txt file to install all the required packages
+the final file is a jupyter notebook file and is best run on Jupyternotebook
+
+
+
