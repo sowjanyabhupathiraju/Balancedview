@@ -1,0 +1,14 @@
+
+NEWSAPI installation- you will need to register at newsapi.org to get a API key. 
+
+Textblob installation - you will need to install textblob along with corpora which acts as the base data.
+$ pip install -U textblob
+$ python -m textblob.download_corpora
+
+Pandas installation- 
+$ pip install pandas 
+
+
+Numpy installation
+$ pip install numpy
+
